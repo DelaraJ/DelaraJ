@@ -19,7 +19,7 @@ minimal_mistakes_skin    : "neon" #"default" # "air", "aqua", "contrast", "dark"
 locale                   : "en-US" 
 title                    : "Delara jalali"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Delara" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               :
 facebook:
-  username               : sauleh.eetemadi
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -107,16 +107,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "Toorrang Atashi"
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm better student.
+  name             : "delara jalali"
+  avatar           : "/assets/images/3.jpg"
+  bio              : You can't get lost if you don't know where you're going.
   location         : "تهران"
-  email            : sauleh@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
-  google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: saulehe
+  email            : delara.jalali.382@gmail.com
+  twitter: 
+  linkedin:
+  google_scholar:
+  github: DelaraJ
+  instagram:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
