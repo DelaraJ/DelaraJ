@@ -9,7 +9,7 @@ comments: false
 
 
 Hobbies: 
-## Nature photography
+ ## Nature photography
    - url: /assets/images/10.jpg
     image_path: /assets/images/10.jpg
     alt: "placeholder image 10"
@@ -43,7 +43,7 @@ Hobbies:
     title: "Image 15 title caption"
 
 
-##Painting
+   ##Painting
 
     - url: /assets/images/p1.jpg
     image_path: /assets/images/p1.jpg
