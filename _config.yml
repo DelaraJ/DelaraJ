@@ -109,7 +109,7 @@ analytics:
 author:
   name             : "delara jalali"
   avatar           : "/assets/images/profile.jpg"
-  bio              : You can't get lost if you don't know where you're going.
+  bio              : I'm Delara Jalai, a computer engineering student. I'm very eager to learn and strive to improve.
   location         : "تهران"
   email            : delara.jalali.382@gmail.com
   twitter: 
@@ -120,7 +120,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      # url: mailto:delara.jalali.382@gmail.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
