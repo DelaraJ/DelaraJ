@@ -9,22 +9,18 @@ comments: false
 ---
 
 
-|    |    | **Experience**                                                             |
-|----|----|-------------------------------------------------------------------------------|
-|2018| now| **Assistant Professor**, Computer Sceince Department, IUST, Tehran, Iran |
-|----|----|-------------------------------------------------------------------------------|
-|2005|2018| **Senior Research Software Development Engineer**, Microsoft Research, Redmond WA |
+|    |      | **Experience**                                                             |
 |----|------|-------------------------------------------------------------------------------|
-|2005|      | **Research Intern**, Microsoft Research, Redmond WA |
+|2019|------| **1st place**, programming competition |
 |----|------|-------------------------------------------------------------------------------|
-|2004|      | **Research Intern**, Microsoft Research, Redmond WA |
+|2019|------| **3rd place**, openweight soccer robot competition  |
+|----|------|-------------------------------------------------------------------------------|
+|2018|      | **2nd place**, openweight soccer robot competition  |
+|----|------|-------------------------------------------------------------------------------|
+|2017|      | **2nd place**, lightweight soccer robot competition |
+|----|------|-------------------------------------------------------------------------------|
+|2017|      | **1nd place**, lightweight soccer robot competition, super team |
+|----|------|-------------------------------------------------------------------------------|
+|2016|      | **1nd place**, lightweight soccer robot competition, super team |
 
 
-
-|     |    |**Education**                                                               |
-|-----|----|----------------------------------------------------------------------------------|
-|2008 |2016| **PhD**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
-|-----|----|----------------------------------------------------------------------------------|
-|2003 |2005| **MSc**, Electrical and Computer Engineering, Michigan State University, East Lansing, MI |
-|-----|----|----------------------------------------------------------------------------------|
-|1997 |2001| **BS**, Computer Engineering, Sharif University of Technology, Tehran, Iran               |

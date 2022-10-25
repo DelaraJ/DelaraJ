@@ -8,7 +8,7 @@ modified: 9-14-2019
 comments: false
 
 ---
-  *Nature photography*
+  ***Nature photography***
    
   ![image 1](/assets/images/10.jpg)
 
@@ -25,7 +25,7 @@ comments: false
     
 
 
-  *Painting*
+  ***Painting***
 
  ![image 1](/assets/images/p1.jpg)
 
