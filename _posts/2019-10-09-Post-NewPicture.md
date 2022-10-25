@@ -4,7 +4,7 @@ title: Sophia
 ---
 
 
-![sofia-interview](/assets/images/sophia-interview.jpg)
+![sophia-interview](/assets/images/sophia-interview.jpg)
 
 
 *A brief description of Sophia*
@@ -21,7 +21,7 @@ title: Sophia
 
 [More information about Sophia](https://www.hansonrobotics.com/sophia/#:~:text=She%20is%20the%20world's%20first,of%20conferences%20around%20the%20world.)
 
-![sofia](/assets/images/sophia.jpg)
+![sophia](/assets/images/sophia.jpg)
 
 ---
 **Test**: This is atest
