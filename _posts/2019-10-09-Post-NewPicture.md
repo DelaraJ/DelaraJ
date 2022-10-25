@@ -1,9 +1,8 @@
 ---
 layout: posts
-title: Test Post
+title: Sophia
 ---
 
-# Sophia
 
 ![sofia-interview](/assets/images/sophia-interview.jpg)
 
