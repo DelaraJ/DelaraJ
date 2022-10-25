@@ -116,7 +116,7 @@ author:
   linkedin:
   google_scholar:
   github: DelaraJ
-  instagram:
+  instagram:deli_jalali
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -136,12 +136,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Calendly"
-      icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "http://t.me/DelaraJ"
 
 # Site Footer
 footer:
