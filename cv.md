@@ -19,8 +19,8 @@ comments: false
 |----|------|-------------------------------------------------------------------------------|
 |2017|      | **2nd place**, lightweight soccer robot competition |
 |----|------|-------------------------------------------------------------------------------|
-|2017|      | **1nd place**, lightweight soccer robot competition, super team |
+|2017|      | **1st place**, lightweight soccer robot competition, super team |
 |----|------|-------------------------------------------------------------------------------|
-|2016|      | **1nd place**, lightweight soccer robot competition, super team |
+|2016|      | **1st place**, lightweight soccer robot competition, super team |
 
 
