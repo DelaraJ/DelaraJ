@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Sophia
+title: Sophia the robot
 ---
 
 
@@ -23,7 +23,7 @@ title: Sophia
 
 [More information about Sophia](https://www.hansonrobotics.com/sophia/#:~:text=She%20is%20the%20world's%20first,of%20conferences%20around%20the%20world.)
 
-<img src="/assets/images/sophia.jpg"
+<img src="/assets/images/Sophia.png"
     alt="sophia"
     style="float; margin-right: 10px;"  />
 
