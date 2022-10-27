@@ -2,8 +2,8 @@
 layout: single
 author_profile: true
 permalink: /funny-quotes/
-title: funny-quotes
-tags: [funny-quotes]
+title: Funny quotes
+tags: [Funny quotes]
 modified: 4-10-2019
 comments: true
 ---
