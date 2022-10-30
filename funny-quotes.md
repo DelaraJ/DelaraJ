@@ -19,8 +19,6 @@ comments: true
 
 ![image 6](/assets/images/q6.png)
 
-![image 7](/assets/images/q7.png)
-
 ![image 8](/assets/images/q8.png)
 
 ![image 9](/assets/images/q9.png)
