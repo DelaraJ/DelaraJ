@@ -20,16 +20,16 @@ To do this project, I followed these steps:
 -We use Python to start the project because Python has libraries that remove the initial complexity and allow us to focus on image selection (selecting the desired fractal and color).
 
 The first production images:
-<img src="/assets/images/firstmandelbrot.png"
+<img src="/assets/images/firstmandelbrot.jpg"
     alt="firstmandelbrot"
     style="float; margin-right: 10px;"  />
 
-<img src="/assets/images/juliaset.png"
+<img src="/assets/images/juliaset.jpg"
     alt="juliaset"
     style="float; margin-right: 10px;"  />
 
 Final image:
-<img src="/assets/images/1final.png"
+<img src="/assets/images/1final.jpg"
     alt="1final"
     style="float; margin-right: 10px;"  />
 
@@ -37,27 +37,27 @@ Final image:
 First, we generate the initial image and then we will implement the functions that we want to use for video production and finally, we choose the desired color and choose a path to navigate on our fractal that is visually more beautiful.
 My initial image in c with simple coloring:
 
-<img src="/assets/images/firstcimage.png"
+<img src="/assets/images/firstcimage.jpg"
     alt="firstcimage"
     style="float; margin-right: 10px;"  />
 
 For coloring, in python we used hsv but in c we can only use rgb, so we need to use a function to convert hsv to rgb
 here is some coloring that I test them:
-<img src="/assets/images/00000.png"
+<img src="/assets/images/00000.jpg"
     alt="00000"
     style="float; margin-right: 10px;"  />
-<img src="/assets/images/00001.png"
+<img src="/assets/images/00001.jpg"
     alt="00001"
     style="float; margin-right: 10px;"  />
-<img src="/assets/images/00002.png"
+<img src="/assets/images/00002.jpg"
     alt="00002"
     style="float; margin-right: 10px;"  />
-<img src="/assets/images/00003.png"
+<img src="/assets/images/00003.jpg"
     alt="00003"
     style="float; margin-right: 10px;"  />
 
 and here is the final color that I chose:
-<img src="/assets/images/00004.png"
+<img src="/assets/images/00004.jpg"
     alt="00004"
     style="float; margin-right: 10px;"  />
 
