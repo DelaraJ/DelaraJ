@@ -4,11 +4,6 @@ title: The general process of the Mandelbrot project
 ---
 
 
-<img src="/assets/images/sophia-interview.gif"
-    alt="sophia-interview"
-    style="float; margin-right: 10px;"  />
-
-
 *The brief of the project we wanted to do was to produce an audio-visual artwork using programming. The most interesting point of this, is that we can think of an image or music and implement it.*
 
 To do this project, I followed these steps:
